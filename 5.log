@@ -1,0 +1,406 @@
+[ AutoCAD LT - Wed Jun 23 09:53:03 2021  ]----------------------------------------
+
+Command: SS
+SELECTSIMILAR 
+Command: 
+Command: LI
+LIST 17 found
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e118ada
+              Open 
+    Constant width    0.0000
+              area   134255430.0090
+            length   44493.3337 
+
+          at point  X=164276.3461  Y=365030.6517  Z=   0.0000
+          at point  X=162109.9422  Y=365890.4800  Z=   0.0000
+          at point  X=161969.7995  Y=366215.0721  Z=   0.0000
+          at point  X=159181.3910  Y=367321.7690  Z=   0.0000
+          at point  X=158856.7989  Y=367181.6264  Z=   0.0000
+          at point  X=155841.8939  Y=368378.2180  Z=   0.0000
+          at point  X=149125.8896  Y=371220.0848  Z=   0.0000
+          at point  X=148724.4658  Y=372149.8446  Z=   0.0000
+          at point  X=145649.7872  Y=373370.1598  Z=   0.0000
+          at point  X=141979.1198  Y=370666.0298  Z=   0.0000
+          at point  X=141818.6484  Y=370622.3710  Z=   0.0000
+          at point  X=132823.6088  Y=368761.7090  Z=   0.0000
+          at point  X=131256.1727  Y=368394.3503  Z=   0.0000
+          at point  X=123373.1845  Y=366631.6911  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e118adc
+              Open 
+    Constant width    0.0000
+              area   136340206.7900
+            length   44850.3831 
+
+          at point  X=164371.6329  Y=331596.6948  Z=   0.0000
+          at point  X=162202.1669  Y=332457.7384  Z=   0.0000
+          at point  X=162062.0243  Y=332782.3305  Z=   0.0000
+          at point  X=159273.6158  Y=333889.0275  Z=   0.0000
+          at point  X=158949.0237  Y=333748.8848  Z=   0.0000
+          at point  X=155836.4062  Y=334984.2577  Z=   0.0000
+          at point  X=149260.3956  Y=337867.8029  Z=   0.0000
+          at point  X=148853.5804  Y=338810.0500  Z=   0.0000
+          at point  X=145585.2185  Y=340107.2365  Z=   0.0000
+          at point  X=141950.5177  Y=337148.5916  Z=   0.0000
+          at point  X=141783.7336  Y=337103.2153  Z=   0.0000
+          at point  X=132791.2968  Y=335243.0917  Z=   0.0000
+          at point  X=131222.1937  Y=334875.3423  Z=   0.0000
+          at point  X=123333.4560  Y=333112.4203  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e118ade
+              Open 
+    Constant width    0.0000
+              area   132195262.8066
+            length   44149.2581 
+
+          at point  X=164181.0593  Y=390534.3907  Z=   0.0000
+          at point  X=162017.7174  Y=391393.0037  Z=   0.0000
+Press ENTER to continue: 
+          at point  X=161877.5748  Y=391717.5958  Z=   0.0000
+          at point  X=159089.1663  Y=392824.2927  Z=   0.0000
+          at point  X=158764.5742  Y=392684.1501  Z=   0.0000
+          at point  X=155847.3815  Y=393841.9604  Z=   0.0000
+          at point  X=148991.6589  Y=396641.5109  Z=   0.0000
+          at point  X=148595.3512  Y=397559.4213  Z=   0.0000
+          at point  X=145714.3559  Y=398702.8652  Z=   0.0000
+          at point  X=142007.9126  Y=396252.2657  Z=   0.0000
+          at point  X=141853.7961  Y=396210.3358  Z=   0.0000
+          at point  X=132856.1361  Y=394349.1317  Z=   0.0000
+          at point  X=131290.8157  Y=393982.2689  Z=   0.0000
+          at point  X=123412.8728  Y=392220.8911  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e119328
+              Open 
+    Constant width    0.0000
+              area   140644994.1399
+            length   45598.9921 
+
+          at point  X=164562.2065  Y=272658.9990  Z=   0.0000
+          at point  X=162386.6164  Y=273522.4732  Z=   0.0000
+          at point  X=162246.4738  Y=273847.0653  Z=   0.0000
+          at point  X=159458.0653  Y=274953.7622  Z=   0.0000
+          at point  X=159133.4731  Y=274813.6196  Z=   0.0000
+          at point  X=155825.4310  Y=276126.5549  Z=   0.0000
+          at point  X=149530.3277  Y=279091.3259  Z=   0.0000
+          at point  X=149111.8097  Y=280060.6786  Z=   0.0000
+          at point  X=145456.0812  Y=281511.6079  Z=   0.0000
+          at point  X=141893.3136  Y=278043.9331  Z=   0.0000
+          at point  X=141713.9038  Y=277995.1218  Z=   0.0000
+          at point  X=132726.6729  Y=276136.0750  Z=   0.0000
+          at point  X=131153.7379  Y=275767.4276  Z=   0.0000
+          at point  X=123254.0530  Y=274003.8991  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e11932a
+              Open 
+    Constant width    0.0000
+              area   138470553.6741
+            length   45219.2027 
+
+          at point  X=164466.9197  Y=306092.9558  Z=   0.0000
+          at point  X=162294.3916  Y=306955.2148  Z=   0.0000
+          at point  X=162154.2490  Y=307279.8069  Z=   0.0000
+          at point  X=159365.8405  Y=308386.5038  Z=   0.0000
+          at point  X=159041.2484  Y=308246.3612  Z=   0.0000
+          at point  X=155830.9186  Y=309520.5152  Z=   0.0000
+          at point  X=149395.1998  Y=312445.0482  Z=   0.0000
+          at point  X=148982.6951  Y=313400.4732  Z=   0.0000
+          at point  X=145520.6499  Y=314774.5312  Z=   0.0000
+          at point  X=141921.9157  Y=311561.3713  Z=   0.0000
+          at point  X=141748.8187  Y=311514.2775  Z=   0.0000
+          at point  X=132758.9849  Y=309654.6923  Z=   0.0000
+          at point  X=131187.3455  Y=309286.3485  Z=   0.0000
+          at point  X=123293.7545  Y=307523.2687  Z=   0.0000
+Press ENTER to continue: 
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e12636b
+              Open 
+    Constant width    0.0000
+              area   140992587.0063
+            length   43572.8556 
+
+          at point  X=164057.1865  Y=423899.0019  Z=   0.0000
+          at point  X=161897.8253  Y=424756.0351  Z=   0.0000
+          at point  X=161757.6826  Y=425080.6272  Z=   0.0000
+          at point  X=158969.2741  Y=426187.3241  Z=   0.0000
+          at point  X=158644.6820  Y=426047.1815  Z=   0.0000
+          at point  X=155854.5154  Y=427154.5762  Z=   0.0000
+          at point  X=148506.3338  Y=429816.2817  Z=   0.0000
+          at point  X=148261.4976  Y=430383.3604  Z=   0.0000
+          at point  X=145881.3121  Y=431328.0369  Z=   0.0000
+          at point  X=142103.2528  Y=429425.1388  Z=   0.0000
+          at point  X=141970.1790  Y=429388.9339  Z=   0.0000
+          at point  X=132963.8426  Y=427525.9351  Z=   0.0000
+          at point  X=129271.4279  Y=426660.5470  Z=   0.0000
+          at point  X=129029.9663  Y=426270.1492  Z=   0.0000
+          at point  X=127398.7555  Y=425887.8437  Z=   0.0000
+          at point  X=127157.2940  Y=425497.4459  Z=   0.0000
+          at point  X=125526.0832  Y=425115.1404  Z=   0.0000
+          at point  X=125340.3435  Y=424814.8344  Z=   0.0000
+          at point  X=123814.5278  Y=424457.2302  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e12636c
+              Open 
+    Constant width    0.0000
+              area   138784111.5458
+            length   43272.0504 
+
+          at point  X=163961.8997  Y=449402.7409  Z=   0.0000
+          at point  X=161805.6005  Y=450258.5587  Z=   0.0000
+          at point  X=161665.4579  Y=450583.1508  Z=   0.0000
+          at point  X=158877.0494  Y=451689.8477  Z=   0.0000
+          at point  X=158552.4573  Y=451549.7051  Z=   0.0000
+          at point  X=155860.0030  Y=452618.3186  Z=   0.0000
+          at point  X=148316.0326  Y=455456.7707  Z=   0.0000
+          at point  X=148150.8279  Y=455839.4106  Z=   0.0000
+          at point  X=145936.6567  Y=456718.1973  Z=   0.0000
+          at point  X=142165.2240  Y=454840.0765  Z=   0.0000
+          at point  X=142045.8279  Y=454807.5929  Z=   0.0000
+          at point  X=133033.8518  Y=452943.4275  Z=   0.0000
+          at point  X=129345.9907  Y=452079.1066  Z=   0.0000
+          at point  X=129160.2510  Y=451778.8006  Z=   0.0000
+          at point  X=127456.1115  Y=451379.4029  Z=   0.0000
+          at point  X=127214.6500  Y=450989.0051  Z=   0.0000
+          at point  X=125583.4392  Y=450606.6996  Z=   0.0000
+          at point  X=125397.6995  Y=450306.3936  Z=   0.0000
+          at point  X=123868.6029  Y=449948.0205  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+Press ENTER to continue: 
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e12636d
+              Open 
+    Constant width    0.0000
+              area   812500.0000
+            length   11773.7370 
+
+          at point  X=163866.6129  Y=482836.6978  Z=   0.0000
+          at point  X=161713.3758  Y=483691.3003  Z=   0.0000
+          at point  X=161573.2331  Y=484015.8924  Z=   0.0000
+          at point  X=158784.8246  Y=485122.5893  Z=   0.0000
+          at point  X=158460.2325  Y=484982.4467  Z=   0.0000
+          at point  X=153115.7829  Y=487103.6158  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e12636e
+              Open 
+    Constant width    0.0000
+              area   13326460.0778
+            length   26123.2509 
+
+          at point  X=148208.0072  Y=489648.5873  Z=   0.0000
+          at point  X=145908.0620  Y=490561.4171  Z=   0.0000
+          at point  X=142212.8941  Y=488259.0676  Z=   0.0000
+          at point  X=142104.0193  Y=488229.4465  Z=   0.0000
+          at point  X=133087.7051  Y=486364.3837  Z=   0.0000
+          at point  X=129403.3467  Y=485500.8837  Z=   0.0000
+          at point  X=129217.6070  Y=485200.5777  Z=   0.0000
+          at point  X=127513.4675  Y=484801.1800  Z=   0.0000
+          at point  X=127272.0060  Y=484410.7822  Z=   0.0000
+          at point  X=125640.7952  Y=484028.4767  Z=   0.0000
+          at point  X=125380.7597  Y=483608.0483  Z=   0.0000
+          at point  X=123960.6396  Y=483275.2160  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e12636f
+              Open 
+    Constant width    0.0000
+              area   0.0000
+            length   3000.0000 
+
+          at point  X=161481.0084  Y=509518.4161  Z=   0.0000
+          at point  X=158692.5999  Y=510625.1130  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e126370
+              Open 
+    Constant width    0.0000
+              area   5410290.7415
+            length   21383.7728 
+
+          at point  X=144194.2166  Y=548148.3990  Z=   0.0000
+          at point  X=142308.2343  Y=547166.8318  Z=   0.0000
+          at point  X=142220.4023  Y=547142.9357  Z=   0.0000
+          at point  X=133195.4115  Y=545276.0781  Z=   0.0000
+Press ENTER to continue: 
+          at point  X=129518.0587  Y=544414.2200  Z=   0.0000
+          at point  X=129332.3190  Y=544113.9140  Z=   0.0000
+          at point  X=127628.1795  Y=543714.5163  Z=   0.0000
+          at point  X=127386.7180  Y=543324.1185  Z=   0.0000
+          at point  X=125755.5072  Y=542941.8130  Z=   0.0000
+          at point  X=125495.4717  Y=542521.3846  Z=   0.0000
+          at point  X=124092.1419  Y=542192.4874  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e126371
+              Open 
+    Constant width    0.0000
+              area   4035888.9443
+            length   19717.2031 
+
+          at point  X=144489.5555  Y=573766.0724  Z=   0.0000
+          at point  X=142355.9045  Y=572655.6049  Z=   0.0000
+          at point  X=142278.5937  Y=572634.5713  Z=   0.0000
+          at point  X=133249.2648  Y=570766.8164  Z=   0.0000
+          at point  X=129575.4147  Y=569905.7792  Z=   0.0000
+          at point  X=129389.6750  Y=569605.4732  Z=   0.0000
+          at point  X=127685.5355  Y=569206.0755  Z=   0.0000
+          at point  X=127444.0740  Y=568815.6777  Z=   0.0000
+          at point  X=125812.8632  Y=568433.3722  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e126372
+              Open 
+    Constant width    0.0000
+              area   4393010.6737
+            length   18378.2036 
+
+          at point  X=145224.2417  Y=607542.6238  Z=   0.0000
+          at point  X=142403.5746  Y=606074.5960  Z=   0.0000
+          at point  X=142336.7852  Y=606056.4248  Z=   0.0000
+          at point  X=133303.1180  Y=604187.7725  Z=   0.0000
+          at point  X=129632.7707  Y=603327.5563  Z=   0.0000
+          at point  X=129391.3091  Y=602937.1585  Z=   0.0000
+          at point  X=127760.0983  Y=602554.8530  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e126373
+              Open 
+    Constant width    0.0000
+              area   3208222.1150
+            length   15159.7600 
+
+          at point  X=144336.2669  Y=632463.1582  Z=   0.0000
+          at point  X=142465.5457  Y=631489.5337  Z=   0.0000
+          at point  X=142412.4341  Y=631475.0838  Z=   0.0000
+          at point  X=133373.1272  Y=629605.2649  Z=   0.0000
+          at point  X=129707.3335  Y=628746.1159  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+Press ENTER to continue: 
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e126374
+              Open 
+    Constant width    0.0000
+              area   12555641.1579
+            length   25687.7954 
+
+          at point  X=148040.1582  Y=514960.5697  Z=   0.0000
+          at point  X=145992.0013  Y=515773.4667  Z=   0.0000
+          at point  X=142260.5642  Y=513747.8407  Z=   0.0000
+          at point  X=142162.2108  Y=513721.0821  Z=   0.0000
+          at point  X=133141.5583  Y=511855.1219  Z=   0.0000
+          at point  X=129460.7027  Y=510992.4429  Z=   0.0000
+          at point  X=129274.9630  Y=510692.1369  Z=   0.0000
+          at point  X=127570.8235  Y=510292.7392  Z=   0.0000
+          at point  X=127329.3620  Y=509902.3414  Z=   0.0000
+          at point  X=125698.1512  Y=509520.0359  Z=   0.0000
+          at point  X=125512.4115  Y=509219.7299  Z=   0.0000
+          at point  X=124000.0903  Y=508865.2884  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e1291d1
+              Open 
+    Constant width    0.0000
+              area   117187.5000
+            length   1155.3301 
+
+          at point  X=162311.0311  Y=248274.8314  Z=   0.0000
+          at point  X=162521.2450  Y=247787.9432  Z=   0.0000
+          at point  X=163102.1635  Y=247557.3814  Z=   0.0000
+
+                  LWPOLYLINE  Layer: "ñ êœ4"
+                            Space: Model space
+                   Color: BYLAYER    Linetype: "CONTINUOUS"
+                   Handle = e1291d3
+              Open 
+    Constant width    0.0000
+              area   124271318.7100
+            length   43193.9966 
+
+          at point  X=162311.0311  Y=248274.8314  Z=   0.0000
+          at point  X=159604.4159  Y=249349.0652  Z=   0.0000
+          at point  X=159555.0857  Y=249463.3216  Z=   0.0000
+          at point  X=155814.1704  Y=250948.0609  Z=   0.0000
+          at point  X=149650.6999  Y=253701.9980  Z=   0.0000
+          at point  X=149240.9244  Y=254651.1019  Z=   0.0000
+          at point  X=145391.5125  Y=256178.9025  Z=   0.0000
+          at point  X=141863.9488  Y=252460.6507  Z=   0.0000
+          at point  X=141678.0579  Y=252410.0761  Z=   0.0000
+          at point  X=132693.4993  Y=250551.5821  Z=   0.0000
+          at point  X=131117.6006  Y=250182.2400  Z=   0.0000
+          at point  X=123234.2022  Y=248341.8777  Z=   0.0000
+
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command:  LIST
+
+Select objects:  
+Command: *Cancel*
+
+Command: LOGFILEOFF
